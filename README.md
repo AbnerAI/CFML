@@ -13,6 +13,8 @@
 
   - Provide a custom parameter interface.
 
+    <img src="https://github.com/AbnerAI/CFML/blob/main/vis_run_option_demo.jpg" alt="image-20250710221335851" style="zoom:20%;" />
+
   - Three types of diagrams (Here's the demo on the SZ dataset)
 
     - Average attention heatmap showing the evolution of attention weights across training epochs  and independent components.
@@ -21,7 +23,7 @@
 
     - Temporal dynamics of the top 5 most important IC components throughout training epochs. Lines show mean attention weights with shaded areas representing standard deviation across folds, highlighting the stability and convergence patterns of critical brain regions
 
-    <img src="https://github.com/AbnerAI/CFML/blob/main/Top_x_IC_Components.jpg" alt="image-20250710221533847" style="zoom:10%;" />
+    <img src="https://github.com/AbnerAI/CFML/blob/main/Top_x_IC_Components.jpg" alt="image-20250710221533847" style="zoom:20%;" />
 
     - Standard deviation heatmap illustrating the variability of attention weights across different folds
 
