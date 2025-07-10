@@ -21,7 +21,7 @@
 
     - Temporal dynamics of the top 5 most important IC components throughout training epochs. Lines show mean attention weights with shaded areas representing standard deviation across folds, highlighting the stability and convergence patterns of critical brain regions
 
-    <img src="https://github.com/AbnerAI/CFML/blob/main/Top_x_IC_Components.jpg" alt="image-20250710221533847" style="zoom:20%;" />
+    <img src="https://github.com/AbnerAI/CFML/blob/main/Top_x_IC_Components.jpg" alt="image-20250710221533847" style="zoom:16%;" />
 
     - Standard deviation heatmap illustrating the variability of attention weights across different folds
 
