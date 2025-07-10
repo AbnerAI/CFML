@@ -1,5 +1,5 @@
 ### A Cross-Feature Mutual Learning Framework Integrating Multiple Features for Brain Disorder Diagnosis
-### **⚡️ 2025-2-07-10 We released dynamic attention visualization code❗️**
+### **⚡️ 2025-07-10 We released dynamic attention visualization code❗️**
 
 ​	 To promote the development of this field, particularly to advance interpretability techniques in neuroimaging, we have decided to open-source our dynamic visualization solution. 
 
